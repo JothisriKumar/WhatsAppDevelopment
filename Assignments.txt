@@ -1,0 +1,82 @@
+Assignments : 
+
+[9:06 am, 28/06/2021] Jothisri Kumar: SELENIUM JUNE BATCH ASSIGNMENTS
+Week2 - Day 2 : JUNE-20-2021
+
+Assignment 1:
+1) Complete all the 5 activities in Edit Page: http://leafground.com/pages/Edit.html
+2) Complete all the 4 activities in Button Page: http://leafground.com/pages/Button.html
+3) Complete all the 5 activities in HyperLink Page: http://leafground.com/pages/Link.html
+4) Complete all the 3 activities in Image Page: http://leafground.com/pages/Image.html
+5) Complete all the 5 (except 4th) activities in DropDown Page: http://leafground.com/pages/Dropdown.html
+6) Complete all 3 activities in Radio button Page: http://leafground.com/pages/radio.html
+7) Complete all 4 activities in CheckBox Page: http://leafground.com/pages/checkbox.html
+
+Assignment 2:
+
+http://leaftaps.com/opentaps/control/main
+Credential: demosalesmanager ; crmsfa
+ 
+Edit Lead:
+1	Launch the browser
+2	Enter the username
+3	Enter the password
+4	Click Login
+5	Click crm/sfa link
+6	Click Leads link
+7	Click Find leads
+8	Enter first name as Gopi
+		Thread.sleep(2000)
+9	Click Find leads button
+10	Click on first resulting lead
+11	Verify title of the page
+12	Click Edit
+13	Change the company name
+14	Click Update
+15	Confirm the changed name appears
+16	Close the browser (Do not log out)
+
+Assignment 3:
+
+http://leaftaps.com/opentaps/control/main
+ 
+Delete Lead:
+1	Launch the browser
+2	Enter the username
+3	Enter the password
+4	Click Login
+5	Click crm/sfa link
+6	Click Leads link
+7	Click Find leads
+8	Click on Phone
+9	Enter phone number 99
+10	Click find leads button
+11	Capture lead ID of First Resulting lead
+12	Click First Resulting lead
+13	Click Delete
+14	Click Find leads
+15	Enter captured lead ID
+16	Click find leads button
+17	Verify message "No records to display" in the Lead List. This message confirms the successful deletion
+18	Close the browser (Do not log out)
+
+Assignment 4:
+RedBus:
+1.Go to https://www.redbus.in/ in chrome
+2.Type Chennai in From textBox and ENTER
+3.Type Bengaluru in Destination textBox and ENTER 
+4.Choose any date in JUNE
+5.Click Search Buses
+6.Print the number of search results
+7.Choose only Sleeper Bus
+8.Print the number of search results
+9.Choose also AC buses
+10.Print the number of search results
+
+Please find the solution for the assignments of week2 in the below GitHub link
+
+https://github.com/TestLeafPages/SelJune2021/tree/main/Week2%20Assignments%20Solution
+
+A recording link is provided in a text file.
+The recording has few extra programs for your learning.
+- CreateContact, FindContact, FindOppurtutnities, and few examples to practise Xpath.
