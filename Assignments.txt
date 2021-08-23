@@ -16,6 +16,7 @@ Assignment 2:
 
 http://leaftaps.com/opentaps/control/main
 Credential: demosalesmanager ; crmsfa
+new
  
 Edit Lead:
 1	Launch the browser
